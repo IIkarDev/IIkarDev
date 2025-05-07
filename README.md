@@ -1,6 +1,6 @@
 ![TopWave pic](TopWave.svg)
 
-# About me 🔥
+# 🔥 About me 
 *   🌍  I'm based in Saint-Petersberg
 *   ✉️  You can contact me at my [![mailto:iikardev@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iikardev@gmail.com) 
 *   🧠  I'm learning Java with SpringBoot
