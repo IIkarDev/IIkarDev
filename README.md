@@ -1,1 +1,1 @@
-![Boiling Pot Logo or Screenshot](UpperWave2.svg)
+![Boiling Pot Logo or Screenshot](UpperWave.svg)
