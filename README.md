@@ -15,4 +15,5 @@
 ---
 
 > I believe that good code is not only working code, but also code that is easy to read, maintain, and scale.
+
 > As long as you don't know how your work makes the company money, you're a cog in the machine. If you know, you become a partner.
