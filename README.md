@@ -9,7 +9,7 @@
 
 - 💻 **I'm currently based in** Saint-Petersburg
 
-- 📫 **Contact me:** [Telegram](https://t.me/TarasVolkovich) | [Email](iikardev@gmail.com)
+- 📫 **Contact me:** [Telegram](https://t.me/TarasVolkovich) | [Email](mailto:iikardev@gmail.com)
 
 ---
 
