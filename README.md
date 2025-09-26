@@ -1,6 +1,6 @@
 ### Hi, I'm IIkarDev 👋
 
-##### I am a novice backend developer. I create reliable and productive systems on Go.
+##### I am an aspiring backend developer. I create reliable and productive systems on Go.
 ---
 
 - 🔭 **I'm currently wroking on:** [**Notibot**](https://github.com/IIkarDev/Notibot) — an universal webhook handler for notification centralization. This is my main project, in which I delve into system architecture, working with databases and CI/CD.
